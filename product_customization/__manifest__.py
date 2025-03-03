@@ -9,7 +9,7 @@
     'license': 'GPL-3',
     'description': """  """,
     'category': '',
-    'depends': ['product', 'sale'],
+    'depends': ['product', 'sale', 'purchase'],
     'data': [
         'views/product_template_views.xml',
     ],
