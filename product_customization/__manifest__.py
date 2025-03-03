@@ -3,7 +3,7 @@
     'name': 'Product Customization',
     'version': '17.0.1.0.0',
     'summary': """This module allows to import products based on Uom""",
-    'author': 'Consulting',
+    'author': 'aaa',
     'website': 'https://www.harrison.consulting',
     'sequence': 0,
     'license': 'GPL-3',
