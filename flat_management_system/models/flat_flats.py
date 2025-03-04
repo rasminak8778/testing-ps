@@ -4,7 +4,7 @@ from odoo import fields, models
 
 class FlatFlats(models.Model):
     _name = 'flat.flats'
-    _description = 'Flats'
+    _description = 'Flats For Sale'
     _inherit = ['mail.thread', 'mail.activity.mixin']
     _rec_name = 'name'
 
